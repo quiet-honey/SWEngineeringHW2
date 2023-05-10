@@ -63,7 +63,7 @@
 											"top": 140,
 											"width": 293.29345703125,
 											"height": 13,
-											"text": "User Interface::addRecruitInfoUI"
+											"text": "User Interface::AddRecruitInfoUI"
 										},
 										{
 											"_type": "LabelView",
@@ -75,7 +75,7 @@
 											"font": "Arial;13;0",
 											"left": -468,
 											"top": -224,
-											"width": 229.68994140625,
+											"width": 231.44189453125,
 											"height": 13,
 											"text": "(from 채용 정보 System Class Diagram)"
 										},
@@ -276,7 +276,7 @@
 											"top": 252,
 											"width": 293.29345703125,
 											"height": 13,
-											"text": "User Interface::recruitInquiryUI"
+											"text": "User Interface::RecruitInquiryUI"
 										},
 										{
 											"_type": "LabelView",
@@ -288,7 +288,7 @@
 											"font": "Arial;13;0",
 											"left": 140,
 											"top": -314,
-											"width": 229.68994140625,
+											"width": 231.44189453125,
 											"height": 13,
 											"text": "(from 채용 정보 System Class Diagram)"
 										},
@@ -501,7 +501,7 @@
 											"font": "Arial;13;0",
 											"left": -226,
 											"top": -454,
-											"width": 229.68994140625,
+											"width": 231.44189453125,
 											"height": 13,
 											"text": "(from 채용 정보 System Class Diagram)"
 										},
@@ -593,7 +593,7 @@
 											"top": 428,
 											"width": 295,
 											"height": 13,
-											"text": "+InsertRecruitInfoChange()",
+											"text": "+insertRecruitInfoChange()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -714,7 +714,7 @@
 											"font": "Arial;13;0",
 											"left": -398,
 											"top": -688,
-											"width": 229.68994140625,
+											"width": 231.44189453125,
 											"height": 13,
 											"text": "(from 채용 정보 System Class Diagram)"
 										},
@@ -806,7 +806,7 @@
 											"top": 548,
 											"width": 295,
 											"height": 13,
-											"text": "+DeleteRecruitInfo()",
+											"text": "+deleteRecruitInfo()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -927,7 +927,7 @@
 											"font": "Arial;13;0",
 											"left": -598,
 											"top": -806,
-											"width": 229.68994140625,
+											"width": 231.44189453125,
 											"height": 13,
 											"text": "(from 채용 정보 System Class Diagram)"
 										},
@@ -1019,7 +1019,7 @@
 											"top": 676,
 											"width": 294.0234375,
 											"height": 13,
-											"text": "+EndRecruit()",
+											"text": "+endRecruit()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1128,7 +1128,7 @@
 											"top": 756,
 											"width": 295,
 											"height": 13,
-											"text": "User Interface::listRecruitClosingUI"
+											"text": "User Interface::ListRecruitClosingUI"
 										},
 										{
 											"_type": "LabelView",
@@ -1140,7 +1140,7 @@
 											"font": "Arial;13;0",
 											"left": -540,
 											"top": -952,
-											"width": 229.68994140625,
+											"width": 231.44189453125,
 											"height": 13,
 											"text": "(from 채용 정보 System Class Diagram)"
 										},
@@ -1232,7 +1232,7 @@
 											"top": 804,
 											"width": 295,
 											"height": 13,
-											"text": "+EndRecruitList()()",
+											"text": "+endRecruitList()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1254,7 +1254,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": -270,
-									"top": -476,
+									"top": -484,
 									"width": 10,
 									"height": 10
 								},
@@ -1270,7 +1270,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": -270,
-									"top": -476,
+									"top": -484,
 									"width": 10,
 									"height": 10
 								}
@@ -1341,7 +1341,7 @@
 											"top": 140,
 											"width": 215,
 											"height": 13,
-											"text": "Control::addRecruitInfo"
+											"text": "Control::AddRecruitInfo"
 										},
 										{
 											"_type": "LabelView",
@@ -1353,7 +1353,7 @@
 											"font": "Arial;13;0",
 											"left": 28,
 											"top": -56,
-											"width": 229.68994140625,
+											"width": 231.44189453125,
 											"height": 13,
 											"text": "(from 채용 정보 System Class Diagram)"
 										},
@@ -1537,7 +1537,7 @@
 											"top": 260,
 											"width": 216.6962890625,
 											"height": 13,
-											"text": "Control::recruitInquiry"
+											"text": "Control::RecruitInquiry"
 										},
 										{
 											"_type": "LabelView",
@@ -1549,7 +1549,7 @@
 											"font": "Arial;13;0",
 											"left": -182,
 											"top": -148,
-											"width": 229.68994140625,
+											"width": 231.44189453125,
 											"height": 13,
 											"text": "(from 채용 정보 System Class Diagram)"
 										},
@@ -1745,7 +1745,7 @@
 											"font": "Arial;13;0",
 											"left": -156,
 											"top": -384,
-											"width": 229.68994140625,
+											"width": 231.44189453125,
 											"height": 13,
 											"text": "(from 채용 정보 System Class Diagram)"
 										},
@@ -1820,7 +1820,7 @@
 											"top": 413,
 											"width": 215,
 											"height": 13,
-											"text": "+ModifyRecruit()",
+											"text": "+modifyRecruit()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1941,7 +1941,7 @@
 											"font": "Arial;13;0",
 											"left": -192,
 											"top": -426,
-											"width": 229.68994140625,
+											"width": 231.44189453125,
 											"height": 13,
 											"text": "(from 채용 정보 System Class Diagram)"
 										},
@@ -2137,7 +2137,7 @@
 											"font": "Arial;13;0",
 											"left": -256,
 											"top": -426,
-											"width": 229.68994140625,
+											"width": 231.44189453125,
 											"height": 13,
 											"text": "(from 채용 정보 System Class Diagram)"
 										},
@@ -2212,7 +2212,7 @@
 											"top": 661,
 											"width": 215,
 											"height": 13,
-											"text": "+EndRecruit()",
+											"text": "+endRecruit()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -2321,7 +2321,7 @@
 											"top": 756,
 											"width": 215,
 											"height": 13,
-											"text": "Control::listRecruitClosing"
+											"text": "Control::ListRecruitClosing"
 										},
 										{
 											"_type": "LabelView",
@@ -2333,7 +2333,7 @@
 											"font": "Arial;13;0",
 											"left": -88,
 											"top": -478,
-											"width": 229.68994140625,
+											"width": 231.44189453125,
 											"height": 13,
 											"text": "(from 채용 정보 System Class Diagram)"
 										},
@@ -2408,7 +2408,7 @@
 											"top": 789,
 											"width": 215,
 											"height": 13,
-											"text": "+ShowEndRecruitList()",
+											"text": "+showEndRecruitList()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -2517,7 +2517,7 @@
 											"top": 140,
 											"width": 239,
 											"height": 13,
-											"text": "recruitment"
+											"text": "Recruitment"
 										},
 										{
 											"_type": "LabelView",
@@ -2527,7 +2527,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"width": 229.68994140625,
+											"width": 231.44189453125,
 											"height": 13,
 											"text": "(from 채용 정보 System Class Diagram)"
 										},
@@ -2721,7 +2721,7 @@
 											"top": 276,
 											"width": 239,
 											"height": 13,
-											"text": "+EndRecruit()",
+											"text": "+endRecruit()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2738,7 +2738,7 @@
 											"top": 291,
 											"width": 239,
 											"height": 13,
-											"text": "+ModifyRecruit()",
+											"text": "+modifyRecruit()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2755,7 +2755,7 @@
 											"top": 306,
 											"width": 239,
 											"height": 13,
-											"text": "+GetEndRecruit()",
+											"text": "+getEndRecruit()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -2824,7 +2824,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGIBhNsod/oufE="
 					},
-					"name": "User Interface::addRecruitInfoUI",
+					"name": "User Interface::AddRecruitInfoUI",
 					"stereotype": "boundary",
 					"operations": [
 						{
@@ -2851,7 +2851,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGIBhNsod/oufE="
 					},
-					"name": "User Interface::recruitInquiryUI",
+					"name": "User Interface::RecruitInquiryUI",
 					"stereotype": "boundary",
 					"operations": [
 						{
@@ -2895,7 +2895,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBhsqiua1GoI="
 							},
-							"name": "InsertRecruitInfoChange"
+							"name": "insertRecruitInfoChange"
 						}
 					]
 				},
@@ -2922,7 +2922,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBhsuEubCDhE="
 							},
-							"name": "DeleteRecruitInfo"
+							"name": "deleteRecruitInfo"
 						}
 					]
 				},
@@ -2949,7 +2949,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBhs1BubP/CA="
 							},
-							"name": "EndRecruit"
+							"name": "endRecruit"
 						}
 					]
 				},
@@ -2959,7 +2959,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGIBhNsod/oufE="
 					},
-					"name": "User Interface::listRecruitClosingUI",
+					"name": "User Interface::ListRecruitClosingUI",
 					"stereotype": "boundary",
 					"operations": [
 						{
@@ -2976,7 +2976,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBhs22ubc5JA="
 							},
-							"name": "EndRecruitList()"
+							"name": "endRecruitList"
 						}
 					]
 				},
@@ -2986,7 +2986,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGIBhNsod/oufE="
 					},
-					"name": "Control::addRecruitInfo",
+					"name": "Control::AddRecruitInfo",
 					"stereotype": "control",
 					"operations": [
 						{
@@ -3005,7 +3005,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGIBhNsod/oufE="
 					},
-					"name": "Control::recruitInquiry",
+					"name": "Control::RecruitInquiry",
 					"stereotype": "control",
 					"operations": [
 						{
@@ -3033,7 +3033,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBiIqJ+iI5+4="
 							},
-							"name": "ModifyRecruit"
+							"name": "modifyRecruit"
 						}
 					]
 				},
@@ -3071,7 +3071,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBiItieiWneY="
 							},
-							"name": "EndRecruit"
+							"name": "endRecruit"
 						}
 					]
 				},
@@ -3081,7 +3081,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGIBhNsod/oufE="
 					},
-					"name": "Control::listRecruitClosing",
+					"name": "Control::ListRecruitClosing",
 					"stereotype": "control",
 					"operations": [
 						{
@@ -3090,7 +3090,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBiIvPeidwCE="
 							},
-							"name": "ShowEndRecruitList"
+							"name": "showEndRecruitList"
 						}
 					]
 				},
@@ -3100,7 +3100,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGIBhNsod/oufE="
 					},
-					"name": "recruitment",
+					"name": "Recruitment",
 					"stereotype": "entity",
 					"attributes": [
 						{
@@ -3179,7 +3179,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBiboiOpWEZw="
 							},
-							"name": "EndRecruit"
+							"name": "endRecruit"
 						},
 						{
 							"_type": "UMLOperation",
@@ -3187,7 +3187,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBiboiOpWEZw="
 							},
-							"name": "ModifyRecruit"
+							"name": "modifyRecruit"
 						},
 						{
 							"_type": "UMLOperation",
@@ -3195,7 +3195,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBiboiOpWEZw="
 							},
-							"name": "GetEndRecruit"
+							"name": "getEndRecruit"
 						}
 					]
 				}
