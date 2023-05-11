@@ -785,7 +785,7 @@
 									"font": "Arial;13;0",
 									"left": 1597,
 									"top": 988.5,
-									"width": 140.7109375,
+									"width": 140,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGHUYqe8SSQ2zg="
@@ -4759,7 +4759,7 @@
 									"font": "Arial;13;0",
 									"left": 1724.5,
 									"top": 196.5,
-									"width": 97.140625,
+									"width": 96,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGHWX0KlMoanWs="
@@ -6651,7 +6651,7 @@
 									"font": "Arial;13;0",
 									"left": 1956.5,
 									"top": 428.5,
-									"width": 97.140625,
+									"width": 96,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGHWYNZy43e+gc="
@@ -8341,9 +8341,9 @@
 																"$ref": "AAAAAAGIBfSXkyKTj8s="
 															},
 															"font": "Arial;13;0",
-															"left": 112.45703125,
+															"left": 112.72998046875,
 															"top": 421,
-															"width": 88.140625,
+															"width": 86.2236328125,
 															"height": 13,
 															"text": "채용 정보 등록"
 														},
@@ -8356,7 +8356,7 @@
 															"font": "Arial;13;1",
 															"left": 93,
 															"top": 421,
-															"width": 14.45703125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -12050,13 +12050,13 @@
 																"$ref": "AAAAAAGIBfLOOhmW/3I="
 															},
 															"font": "Arial;13;0",
-															"left": 669.715087890625,
-															"top": 528,
-															"width": 149.56982421875,
+															"left": 679.65234375,
+															"top": 535,
+															"width": 129.6953125,
 															"height": 13,
-															"alpha": 1.5273449974411097,
-															"distance": 23.021728866442675,
-															"text": "2.1.1 : getRecruitListInfo()"
+															"alpha": 1.5083768942308702,
+															"distance": 16.0312195418814,
+															"text": "2.1.1 : getRecruitInfo()"
 														},
 														{
 															"_type": "NodeLabelView",
@@ -12186,7 +12186,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGIBemjnAP9ILY="
 											},
-											"name": "getRecruitListInfo()",
+											"name": "getRecruitInfo()",
 											"source": {
 												"$ref": "AAAAAAGIBerN0gWI/Eg="
 											},
@@ -12484,9 +12484,9 @@
 																"$ref": "AAAAAAGIBgByJ1TpPU8="
 															},
 															"font": "Arial;13;0",
-															"left": 112.45703125,
+															"left": 112.72998046875,
 															"top": 421,
-															"width": 88.140625,
+															"width": 86.2236328125,
 															"height": 13,
 															"text": "채용 정보 수정"
 														},
@@ -12499,7 +12499,7 @@
 															"font": "Arial;13;1",
 															"left": 93,
 															"top": 421,
-															"width": 14.45703125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -14560,9 +14560,9 @@
 																"$ref": "AAAAAAGIBgpJ1WUZZpI="
 															},
 															"font": "Arial;13;0",
-															"left": 112.45703125,
+															"left": 112.72998046875,
 															"top": 421,
-															"width": 88.140625,
+															"width": 86.2236328125,
 															"height": 13,
 															"text": "채용 정보 삭제"
 														},
@@ -14575,7 +14575,7 @@
 															"font": "Arial;13;1",
 															"left": 93,
 															"top": 421,
-															"width": 14.45703125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -16610,9 +16610,9 @@
 																"$ref": "AAAAAAGIBfk8xkGNHp4="
 															},
 															"font": "Arial;13;0",
-															"left": 112.45703125,
+															"left": 112.72998046875,
 															"top": 421,
-															"width": 118.7109375,
+															"width": 115.83544921875,
 															"height": 13,
 															"text": "채용 조기 마감 처리"
 														},
@@ -16625,7 +16625,7 @@
 															"font": "Arial;13;1",
 															"left": 93,
 															"top": 421,
-															"width": 14.45703125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -18253,9 +18253,9 @@
 																"$ref": "AAAAAAGIBfk8xkHkYYY="
 															},
 															"font": "Arial;13;0",
-															"left": 604.480712890625,
+															"left": 604.59814453125,
 															"top": 496,
-															"width": 362.03857421875,
+															"width": 361.8037109375,
 															"height": 13,
 															"alpha": 0.5549956377691111,
 															"distance": 58.83026432033091,
@@ -18661,9 +18661,9 @@
 																"$ref": "AAAAAAGIBf1yqEvHKqI="
 															},
 															"font": "Arial;13;0",
-															"left": 112.45703125,
+															"left": 112.72998046875,
 															"top": 421,
-															"width": 101.140625,
+															"width": 99.2236328125,
 															"height": 13,
 															"text": "마감된 채용 조회"
 														},
@@ -18676,7 +18676,7 @@
 															"font": "Arial;13;1",
 															"left": 93,
 															"top": 421,
-															"width": 14.45703125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
