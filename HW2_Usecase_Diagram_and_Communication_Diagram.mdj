@@ -785,7 +785,7 @@
 									"font": "Arial;13;0",
 									"left": 293,
 									"top": 916.5,
-									"width": 140,
+									"width": 140.7109375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGHUYqe8SSQ2zg="
@@ -4755,7 +4755,7 @@
 									"font": "Arial;13;0",
 									"left": 420.5,
 									"top": 124.5,
-									"width": 96,
+									"width": 97.140625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGHWX0KlMoanWs="
@@ -6647,7 +6647,7 @@
 									"font": "Arial;13;0",
 									"left": 652.5,
 									"top": 356.5,
-									"width": 96,
+									"width": 97.140625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGHWYNZy43e+gc="
@@ -14544,9 +14544,9 @@
 																"$ref": "AAAAAAGIBgpJ1WUZZpI="
 															},
 															"font": "Arial;13;0",
-															"left": 112.72998046875,
+															"left": 112.45703125,
 															"top": 421,
-															"width": 86.2236328125,
+															"width": 88.140625,
 															"height": 13,
 															"text": "채용 정보 삭제"
 														},
@@ -14559,7 +14559,7 @@
 															"font": "Arial;13;1",
 															"left": 93,
 															"top": 421,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -23241,7 +23241,7 @@
 																	"top": 231,
 																	"width": 90,
 																	"height": 13,
-																	"text": ":Withdrawl"
+																	"text": ":Withdrawal"
 																},
 																{
 																	"_type": "LabelView",
@@ -23975,9 +23975,9 @@
 																"$ref": "AAAAAAGIC4Z52/scWlw="
 															},
 															"font": "Arial;13;0",
-															"left": 476.661865234375,
+															"left": 475.570068359375,
 															"top": 211,
-															"width": 103.67626953125,
+															"width": 105.85986328125,
 															"height": 13,
 															"alpha": 1.5707963267948966,
 															"distance": 10,
@@ -24884,7 +24884,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGIC4Z52/rFlqg="
 											},
-											"name": ":Withdrawl",
+											"name": ":Withdrawal",
 											"represent": {
 												"$ref": "AAAAAAGIC4Z53PsqA+c="
 											},
@@ -29780,7 +29780,7 @@
 																"$ref": "AAAAAAGIC4s6xS7NIhc="
 															},
 															"font": "Arial;13;0",
-															"left": 40.72998046875,
+															"left": 40.45703125,
 															"top": 133,
 															"width": 53,
 															"height": 13,
@@ -29795,7 +29795,7 @@
 															"font": "Arial;13;1",
 															"left": 21,
 															"top": 133,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -40922,9 +40922,9 @@
 																"$ref": "AAAAAAGIC6g2eQPzHHo="
 															},
 															"font": "Arial;13;0",
-															"left": 32.72998046875,
+															"left": 32.45703125,
 															"top": 13,
-															"width": 86.2236328125,
+															"width": 88.140625,
 															"height": 13,
 															"text": "채용 지원 취소"
 														},
@@ -40937,7 +40937,7 @@
 															"font": "Arial;13;1",
 															"left": 13,
 															"top": 13,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
