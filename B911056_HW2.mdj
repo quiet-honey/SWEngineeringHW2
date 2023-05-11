@@ -1268,9 +1268,9 @@
 																		"$ref": "AAAAAAGIBkHgcGitF50="
 																	},
 																	"font": "Arial;13;0",
-																	"left": 120.72998046875,
+																	"left": 120.45703125,
 																	"top": 173,
-																	"width": 86.2236328125,
+																	"width": 88.140625,
 																	"height": 13,
 																	"text": "채용 정보 조회"
 																},
@@ -1283,7 +1283,7 @@
 																	"font": "Arial;13;1",
 																	"left": 101,
 																	"top": 173,
-																	"width": 14.72998046875,
+																	"width": 14.45703125,
 																	"height": 13,
 																	"text": "sd"
 																}
@@ -3353,9 +3353,9 @@
 																		"$ref": "AAAAAAGIBkH5uGjaVg0="
 																	},
 																	"font": "Arial;13;0",
-																	"left": 128.72998046875,
+																	"left": 128.45703125,
 																	"top": 141,
-																	"width": 56.61181640625,
+																	"width": 57.5703125,
 																	"height": 13,
 																	"text": "채용 지원"
 																},
@@ -3368,7 +3368,7 @@
 																	"font": "Arial;13;1",
 																	"left": 109,
 																	"top": 141,
-																	"width": 14.72998046875,
+																	"width": 14.45703125,
 																	"height": 13,
 																	"text": "sd"
 																}
@@ -6976,17 +6976,18 @@
 											"model": {
 												"$ref": "AAAAAAGIBqxz9vOt+xA="
 											},
-											"visible": false,
 											"font": "Arial;13;0",
-											"left": 406,
+											"left": 386,
 											"top": 563,
+											"width": 41.08837890625,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
 											"hostEdge": {
 												"$ref": "AAAAAAGIBqxz9/OxGzE="
 											},
-											"edgePosition": 1
+											"edgePosition": 1,
+											"text": "+apply"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -7041,9 +7042,9 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 423,
+											"left": 422,
 											"top": 562,
-											"width": 14.82177734375,
+											"width": 16.26904296875,
 											"height": 13,
 											"alpha": 0.5235987755982988,
 											"distance": 30,
@@ -7208,7 +7209,7 @@
 									"propertyLabel": {
 										"$ref": "AAAAAAGIBqxz9/O0HPg="
 									},
-									"showEndOrder": "hide",
+									"showEndOrder": "forward",
 									"tailRoleNameLabel": {
 										"$ref": "AAAAAAGIBqxz9/O1ZWI="
 									},
@@ -7312,6 +7313,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGIBoyMK9IpBkA="
 									},
+									"name": "apply",
 									"end1": {
 										"_type": "UMLAssociationEnd",
 										"_id": "AAAAAAGIBqxz9vOuGEw=",
