@@ -8294,14 +8294,6 @@
 					"ownedElements": [
 						{
 							"_type": "UMLCollaboration",
-							"_id": "AAAAAAGIBUJ82OJAAbQ=",
-							"_parent": {
-								"$ref": "AAAAAAGHUYgMQCEynMU="
-							},
-							"name": "Collaboration1"
-						},
-						{
-							"_type": "UMLCollaboration",
 							"_id": "AAAAAAGIBfSXkyKQrEA=",
 							"_parent": {
 								"$ref": "AAAAAAGHUYgMQCEynMU="
@@ -8341,9 +8333,9 @@
 																"$ref": "AAAAAAGIBfSXkyKTj8s="
 															},
 															"font": "Arial;13;0",
-															"left": 112.45703125,
+															"left": 112.72998046875,
 															"top": 421,
-															"width": 88.140625,
+															"width": 86.2236328125,
 															"height": 13,
 															"text": "채용 정보 등록"
 														},
@@ -8356,7 +8348,7 @@
 															"font": "Arial;13;1",
 															"left": 93,
 															"top": 421,
-															"width": 14.45703125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -10404,9 +10396,9 @@
 																"$ref": "AAAAAAGIBenMGwTNjCU="
 															},
 															"font": "Arial;13;0",
-															"left": 72.72998046875,
+															"left": 72.45703125,
 															"top": 461,
-															"width": 128.83544921875,
+															"width": 131.7109375,
 															"height": 13,
 															"text": "채용 정보 리스트 조회"
 														},
@@ -10419,7 +10411,7 @@
 															"font": "Arial;13;1",
 															"left": 53,
 															"top": 461,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -14560,9 +14552,9 @@
 																"$ref": "AAAAAAGIBgpJ1WUZZpI="
 															},
 															"font": "Arial;13;0",
-															"left": 112.45703125,
+															"left": 112.72998046875,
 															"top": 421,
-															"width": 88.140625,
+															"width": 86.2236328125,
 															"height": 13,
 															"text": "채용 정보 삭제"
 														},
@@ -14575,7 +14567,7 @@
 															"font": "Arial;13;1",
 															"left": 93,
 															"top": 421,
-															"width": 14.45703125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -16209,7 +16201,7 @@
 															"height": 13,
 															"alpha": 1.5273449974411097,
 															"distance": 23.021728866442675,
-															"text": "2.1.1 : ~recruitment()"
+															"text": "2.1.1 : ~Recruitment()"
 														},
 														{
 															"_type": "NodeLabelView",
@@ -16339,7 +16331,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGIBgpJ1WUXpHA="
 											},
-											"name": "~recruitment()",
+											"name": "~Recruitment()",
 											"source": {
 												"$ref": "AAAAAAGIBgpJ1mVzkSQ="
 											},
