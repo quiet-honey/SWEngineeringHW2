@@ -1268,9 +1268,9 @@
 																		"$ref": "AAAAAAGIBkHgcGitF50="
 																	},
 																	"font": "Arial;13;0",
-																	"left": 120.45703125,
+																	"left": 120.72998046875,
 																	"top": 173,
-																	"width": 88.140625,
+																	"width": 86.2236328125,
 																	"height": 13,
 																	"text": "채용 정보 조회"
 																},
@@ -1283,7 +1283,7 @@
 																	"font": "Arial;13;1",
 																	"left": 101,
 																	"top": 173,
-																	"width": 14.45703125,
+																	"width": 14.72998046875,
 																	"height": 13,
 																	"text": "sd"
 																}
@@ -1444,7 +1444,7 @@
 																			"top": 423,
 																			"width": 174,
 																			"height": 16,
-																			"text": ":GeRecruitmenttUI"
+																			"text": ":GeRecruitmentUI"
 																		},
 																		{
 																			"_type": "LabelView",
@@ -3141,7 +3141,7 @@
 													"_parent": {
 														"$ref": "AAAAAAGIBkHgcGirYIg="
 													},
-													"name": ":GeRecruitmenttUI",
+													"name": ":GeRecruitmentUI",
 													"represent": {
 														"$ref": "AAAAAAGIBlrMe2mwjA8="
 													},
@@ -5613,8 +5613,8 @@
 														"$ref": "AAAAAAGIBn+2mdFtfgk="
 													},
 													"font": "Arial;16;0",
-													"left": 93,
-													"top": 85,
+													"left": 21,
+													"top": 53,
 													"width": 270.9609375,
 													"height": 16,
 													"text": "«boundary»"
@@ -5626,8 +5626,8 @@
 														"$ref": "AAAAAAGIBn+2mdFtfgk="
 													},
 													"font": "Arial;16;1",
-													"left": 93,
-													"top": 103,
+													"left": 21,
+													"top": 71,
 													"width": 270.9609375,
 													"height": 16,
 													"text": "User Interface::GetRecruitmentUI"
@@ -5640,8 +5640,8 @@
 													},
 													"visible": false,
 													"font": "Arial;16;0",
-													"left": 93,
-													"top": 105,
+													"left": -51,
+													"top": 41,
 													"width": 270.9609375,
 													"height": 16,
 													"text": "(from Model1)"
@@ -5654,13 +5654,15 @@
 													},
 													"visible": false,
 													"font": "Arial;16;0",
+													"left": -144,
+													"top": -64,
 													"height": 16,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;16;0",
-											"left": 88,
-											"top": 80,
+											"left": 16,
+											"top": 48,
 											"width": 280.9609375,
 											"height": 44,
 											"stereotypeLabel": {
@@ -5686,8 +5688,8 @@
 												"$ref": "AAAAAAGIBn+2mNFqQL4="
 											},
 											"font": "Arial;16;0",
-											"left": 88,
-											"top": 124,
+											"left": 16,
+											"top": 92,
 											"width": 280.9609375,
 											"height": 10
 										},
@@ -5711,8 +5713,8 @@
 														"$ref": "AAAAAAGIBoRjI9Gg2Ik="
 													},
 													"font": "Arial;16;0",
-													"left": 93,
-													"top": 139,
+													"left": 21,
+													"top": 107,
 													"width": 270.9609375,
 													"height": 16,
 													"text": "+startInterface()",
@@ -5728,8 +5730,8 @@
 														"$ref": "AAAAAAGIBoTRQdGnRRU="
 													},
 													"font": "Arial;16;0",
-													"left": 93,
-													"top": 157,
+													"left": 21,
+													"top": 125,
 													"width": 270.9609375,
 													"height": 16,
 													"text": "+searchRecruitment()",
@@ -5745,8 +5747,8 @@
 														"$ref": "AAAAAAGIBoT++tGuZzs="
 													},
 													"font": "Arial;16;0",
-													"left": 93,
-													"top": 175,
+													"left": 21,
+													"top": 143,
 													"width": 270.9609375,
 													"height": 16,
 													"text": "+selectRecruitment()",
@@ -5754,8 +5756,8 @@
 												}
 											],
 											"font": "Arial;16;0",
-											"left": 88,
-											"top": 134,
+											"left": 16,
+											"top": 102,
 											"width": 280.9609375,
 											"height": 62
 										},
@@ -5770,8 +5772,8 @@
 											},
 											"visible": false,
 											"font": "Arial;16;0",
-											"left": 88,
-											"top": 180,
+											"left": 16,
+											"top": 148,
 											"width": 280.9609375,
 											"height": 10
 										},
@@ -5786,16 +5788,16 @@
 											},
 											"visible": false,
 											"font": "Arial;16;0",
-											"left": 209.4453125,
-											"top": 80,
+											"left": 137.4453125,
+											"top": 48,
 											"width": 158.515625,
 											"height": 10
 										}
 									],
 									"font": "Arial;16;0",
 									"containerChangeable": true,
-									"left": 88,
-									"top": 80,
+									"left": 16,
+									"top": 48,
 									"width": 280.9609375,
 									"height": 118,
 									"showProperty": false,
@@ -5842,8 +5844,8 @@
 														"$ref": "AAAAAAGIBomm4tHtjpc="
 													},
 													"font": "Arial;16;0",
-													"left": 421,
-													"top": 85,
+													"left": 325,
+													"top": 53,
 													"width": 271,
 													"height": 16,
 													"text": "«control»"
@@ -5855,8 +5857,8 @@
 														"$ref": "AAAAAAGIBomm4tHtjpc="
 													},
 													"font": "Arial;16;1",
-													"left": 421,
-													"top": 103,
+													"left": 325,
+													"top": 71,
 													"width": 271,
 													"height": 16,
 													"text": "Control::GetRecruitment"
@@ -5869,7 +5871,8 @@
 													},
 													"visible": false,
 													"font": "Arial;16;0",
-													"left": -96,
+													"left": -288,
+													"top": -64,
 													"width": 104.734375,
 													"height": 16,
 													"text": "(from Model1)"
@@ -5882,14 +5885,15 @@
 													},
 													"visible": false,
 													"font": "Arial;16;0",
-													"left": -96,
+													"left": -288,
+													"top": -64,
 													"height": 16,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;16;0",
-											"left": 416,
-											"top": 80,
+											"left": 320,
+											"top": 48,
 											"width": 281,
 											"height": 44,
 											"stereotypeLabel": {
@@ -5915,8 +5919,8 @@
 												"$ref": "AAAAAAGIBomm4dHqPAg="
 											},
 											"font": "Arial;16;0",
-											"left": 416,
-											"top": 124,
+											"left": 320,
+											"top": 92,
 											"width": 281,
 											"height": 10
 										},
@@ -5940,8 +5944,8 @@
 														"$ref": "AAAAAAGIBosxKNIasTo="
 													},
 													"font": "Arial;16;0",
-													"left": 421,
-													"top": 139,
+													"left": 325,
+													"top": 107,
 													"width": 271,
 													"height": 16,
 													"text": "+showRecruitment()",
@@ -5957,8 +5961,8 @@
 														"$ref": "AAAAAAGIBotkg9IhNvo="
 													},
 													"font": "Arial;16;0",
-													"left": 421,
-													"top": 157,
+													"left": 325,
+													"top": 125,
 													"width": 271,
 													"height": 16,
 													"text": "+showRecruitmentDetail()",
@@ -5966,8 +5970,8 @@
 												}
 											],
 											"font": "Arial;16;0",
-											"left": 416,
-											"top": 134,
+											"left": 320,
+											"top": 102,
 											"width": 281,
 											"height": 44
 										},
@@ -5982,7 +5986,8 @@
 											},
 											"visible": false,
 											"font": "Arial;16;0",
-											"left": -48,
+											"left": -144,
+											"top": -32,
 											"width": 10,
 											"height": 10
 										},
@@ -5997,15 +6002,16 @@
 											},
 											"visible": false,
 											"font": "Arial;16;0",
-											"left": -48,
+											"left": -144,
+											"top": -32,
 											"width": 10,
 											"height": 10
 										}
 									],
 									"font": "Arial;16;0",
 									"containerChangeable": true,
-									"left": 416,
-									"top": 80,
+									"left": 320,
+									"top": 48,
 									"width": 281,
 									"height": 98,
 									"nameCompartment": {
@@ -6051,8 +6057,8 @@
 														"$ref": "AAAAAAGIBoyMK9Iswz4="
 													},
 													"font": "Arial;16;0",
-													"left": 85,
-													"top": 485,
+													"left": 629,
+													"top": 53,
 													"width": 270,
 													"height": 16,
 													"text": "«entity»"
@@ -6064,8 +6070,8 @@
 														"$ref": "AAAAAAGIBoyMK9Iswz4="
 													},
 													"font": "Arial;16;1",
-													"left": 85,
-													"top": 503,
+													"left": 629,
+													"top": 71,
 													"width": 270,
 													"height": 16,
 													"text": "Recruitment"
@@ -6078,8 +6084,8 @@
 													},
 													"visible": false,
 													"font": "Arial;16;0",
-													"left": -672,
-													"top": 608,
+													"left": 416,
+													"top": -256,
 													"width": 104.734375,
 													"height": 16,
 													"text": "(from Model1)"
@@ -6092,15 +6098,15 @@
 													},
 													"visible": false,
 													"font": "Arial;16;0",
-													"left": -672,
-													"top": 608,
+													"left": 416,
+													"top": -256,
 													"height": 16,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;16;0",
-											"left": 80,
-											"top": 480,
+											"left": 624,
+											"top": 48,
 											"width": 280,
 											"height": 44,
 											"stereotypeLabel": {
@@ -6136,11 +6142,11 @@
 														"$ref": "AAAAAAGIBo0q4tJWxkw="
 													},
 													"font": "Arial;16;0",
-													"left": 85,
-													"top": 529,
+													"left": 629,
+													"top": 97,
 													"width": 270,
 													"height": 16,
-													"text": "-업무",
+													"text": "-status",
 													"horizontalAlignment": 0
 												},
 												{
@@ -6153,11 +6159,11 @@
 														"$ref": "AAAAAAGIBo1hZdJeJa4="
 													},
 													"font": "Arial;16;0",
-													"left": 85,
-													"top": 547,
+													"left": 629,
+													"top": 115,
 													"width": 270,
 													"height": 16,
-													"text": "-인원수",
+													"text": "-numberOfApplicants",
 													"horizontalAlignment": 0
 												},
 												{
@@ -6170,19 +6176,70 @@
 														"$ref": "AAAAAAGIBo1x39Jl6RQ="
 													},
 													"font": "Arial;16;0",
-													"left": 85,
-													"top": 565,
+													"left": 629,
+													"top": 133,
 													"width": 270,
 													"height": 16,
-													"text": "-신청 마감일",
+													"text": "-numberOfRecruit",
+													"horizontalAlignment": 0
+												},
+												{
+													"_type": "UMLAttributeView",
+													"_id": "AAAAAAGIC19WoGYyTG0=",
+													"_parent": {
+														"$ref": "AAAAAAGIBoyMK9IxlpE="
+													},
+													"model": {
+														"$ref": "AAAAAAGIC19WlWYv2U0="
+													},
+													"font": "Arial;16;0",
+													"left": 629,
+													"top": 151,
+													"width": 270,
+													"height": 16,
+													"text": "-work",
+													"horizontalAlignment": 0
+												},
+												{
+													"_type": "UMLAttributeView",
+													"_id": "AAAAAAGIC19lRGZgNjc=",
+													"_parent": {
+														"$ref": "AAAAAAGIBoyMK9IxlpE="
+													},
+													"model": {
+														"$ref": "AAAAAAGIC19lP2Zdw/E="
+													},
+													"font": "Arial;16;0",
+													"left": 629,
+													"top": 169,
+													"width": 270,
+													"height": 16,
+													"text": "-deadline",
+													"horizontalAlignment": 0
+												},
+												{
+													"_type": "UMLAttributeView",
+													"_id": "AAAAAAGIC1+FB2aUTys=",
+													"_parent": {
+														"$ref": "AAAAAAGIBoyMK9IxlpE="
+													},
+													"model": {
+														"$ref": "AAAAAAGIC1+FA2aRt68="
+													},
+													"font": "Arial;16;0",
+													"left": 629,
+													"top": 187,
+													"width": 270,
+													"height": 16,
+													"text": "-currentTime",
 													"horizontalAlignment": 0
 												}
 											],
 											"font": "Arial;16;0",
-											"left": 80,
-											"top": 524,
+											"left": 624,
+											"top": 92,
 											"width": 280,
-											"height": 62
+											"height": 116
 										},
 										{
 											"_type": "UMLOperationCompartmentView",
@@ -6196,6 +6253,91 @@
 											"subViews": [
 												{
 													"_type": "UMLOperationView",
+													"_id": "AAAAAAGIC2KP7We0uIE=",
+													"_parent": {
+														"$ref": "AAAAAAGIBoyMK9IyaQ8="
+													},
+													"model": {
+														"$ref": "AAAAAAGIC2KP5GexXMA="
+													},
+													"font": "Arial;16;0",
+													"left": 629,
+													"top": 213,
+													"width": 270,
+													"height": 16,
+													"text": "+getRecruitListInfo()",
+													"horizontalAlignment": 0
+												},
+												{
+													"_type": "UMLOperationView",
+													"_id": "AAAAAAGIC2Ok6GhSQC0=",
+													"_parent": {
+														"$ref": "AAAAAAGIBoyMK9IyaQ8="
+													},
+													"model": {
+														"$ref": "AAAAAAGIC2Ok5GhP0hI="
+													},
+													"font": "Arial;16;0",
+													"left": 629,
+													"top": 231,
+													"width": 270,
+													"height": 16,
+													"text": "+endRecruit()",
+													"horizontalAlignment": 0
+												},
+												{
+													"_type": "UMLOperationView",
+													"_id": "AAAAAAGIC2QUhGiRRLo=",
+													"_parent": {
+														"$ref": "AAAAAAGIBoyMK9IyaQ8="
+													},
+													"model": {
+														"$ref": "AAAAAAGIC2QUgGiOwWE="
+													},
+													"font": "Arial;16;0",
+													"left": 629,
+													"top": 249,
+													"width": 270,
+													"height": 16,
+													"text": "+modifyRecruit()",
+													"horizontalAlignment": 0
+												},
+												{
+													"_type": "UMLOperationView",
+													"_id": "AAAAAAGIC2RZ02kV7Fo=",
+													"_parent": {
+														"$ref": "AAAAAAGIBoyMK9IyaQ8="
+													},
+													"model": {
+														"$ref": "AAAAAAGIC2RZz2kSmvk="
+													},
+													"font": "Arial;16;0",
+													"left": 629,
+													"top": 267,
+													"width": 270,
+													"height": 16,
+													"text": "+getEndRecruit()",
+													"horizontalAlignment": 0
+												},
+												{
+													"_type": "UMLOperationView",
+													"_id": "AAAAAAGIC2TKh2lAua0=",
+													"_parent": {
+														"$ref": "AAAAAAGIBoyMK9IyaQ8="
+													},
+													"model": {
+														"$ref": "AAAAAAGIC2TKhGk9K40="
+													},
+													"font": "Arial;16;0",
+													"left": 629,
+													"top": 285,
+													"width": 270,
+													"height": 16,
+													"text": "+getNumOfApplicants()",
+													"horizontalAlignment": 0
+												},
+												{
+													"_type": "UMLOperationView",
 													"_id": "AAAAAAGIBo2yS9Jxgkw=",
 													"_parent": {
 														"$ref": "AAAAAAGIBoyMK9IyaQ8="
@@ -6204,8 +6346,8 @@
 														"$ref": "AAAAAAGIBo2yR9JuSUQ="
 													},
 													"font": "Arial;16;0",
-													"left": 85,
-													"top": 591,
+													"left": 629,
+													"top": 303,
 													"width": 270,
 													"height": 16,
 													"text": "+getRecruitment()",
@@ -6221,8 +6363,8 @@
 														"$ref": "AAAAAAGIBo3nD9J143k="
 													},
 													"font": "Arial;16;0",
-													"left": 85,
-													"top": 609,
+													"left": 629,
+													"top": 321,
 													"width": 270,
 													"height": 16,
 													"text": "+getRecruitmentDetail()",
@@ -6230,10 +6372,10 @@
 												}
 											],
 											"font": "Arial;16;0",
-											"left": 80,
-											"top": 586,
+											"left": 624,
+											"top": 208,
 											"width": 280,
-											"height": 44
+											"height": 134
 										},
 										{
 											"_type": "UMLReceptionCompartmentView",
@@ -6246,8 +6388,8 @@
 											},
 											"visible": false,
 											"font": "Arial;16;0",
-											"left": 296,
-											"top": -104,
+											"left": 840,
+											"top": -536,
 											"width": 10,
 											"height": 10
 										},
@@ -6262,18 +6404,18 @@
 											},
 											"visible": false,
 											"font": "Arial;16;0",
-											"left": 296,
-											"top": -104,
+											"left": 840,
+											"top": -536,
 											"width": 10,
 											"height": 10
 										}
 									],
 									"font": "Arial;16;0",
 									"containerChangeable": true,
-									"left": 80,
-									"top": 480,
+									"left": 624,
+									"top": 48,
 									"width": 280,
-									"height": 150,
+									"height": 294,
 									"nameCompartment": {
 										"$ref": "AAAAAAGIBoyMK9Iswz4="
 									},
@@ -6317,8 +6459,8 @@
 														"$ref": "AAAAAAGIBpDcu9KAwUI="
 													},
 													"font": "Arial;16;0",
-													"left": 93,
-													"top": 277,
+													"left": 21,
+													"top": 245,
 													"width": 270,
 													"height": 16,
 													"text": "«boundary»"
@@ -6330,8 +6472,8 @@
 														"$ref": "AAAAAAGIBpDcu9KAwUI="
 													},
 													"font": "Arial;16;1",
-													"left": 93,
-													"top": 295,
+													"left": 21,
+													"top": 263,
 													"width": 270,
 													"height": 16,
 													"text": "User Interface::ApplyUI"
@@ -6344,7 +6486,8 @@
 													},
 													"visible": false,
 													"font": "Arial;16;0",
-													"top": 160,
+													"left": -144,
+													"top": 96,
 													"width": 104.734375,
 													"height": 16,
 													"text": "(from Model1)"
@@ -6357,14 +6500,15 @@
 													},
 													"visible": false,
 													"font": "Arial;16;0",
-													"top": 160,
+													"left": -144,
+													"top": 96,
 													"height": 16,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;16;0",
-											"left": 88,
-											"top": 272,
+											"left": 16,
+											"top": 240,
 											"width": 280,
 											"height": 44,
 											"stereotypeLabel": {
@@ -6390,8 +6534,8 @@
 												"$ref": "AAAAAAGIBpDcu9J9glQ="
 											},
 											"font": "Arial;16;0",
-											"left": 88,
-											"top": 316,
+											"left": 16,
+											"top": 284,
 											"width": 280,
 											"height": 10
 										},
@@ -6415,8 +6559,8 @@
 														"$ref": "AAAAAAGIBpFvv9KsyK8="
 													},
 													"font": "Arial;16;0",
-													"left": 93,
-													"top": 331,
+													"left": 21,
+													"top": 299,
 													"width": 270,
 													"height": 16,
 													"text": "+startInterface()",
@@ -6432,8 +6576,8 @@
 														"$ref": "AAAAAAGIBpHCNtKzvt0="
 													},
 													"font": "Arial;16;0",
-													"left": 93,
-													"top": 349,
+													"left": 21,
+													"top": 317,
 													"width": 270,
 													"height": 16,
 													"text": "+apply()",
@@ -6441,8 +6585,8 @@
 												}
 											],
 											"font": "Arial;16;0",
-											"left": 88,
-											"top": 326,
+											"left": 16,
+											"top": 294,
 											"width": 280,
 											"height": 44
 										},
@@ -6457,7 +6601,8 @@
 											},
 											"visible": false,
 											"font": "Arial;16;0",
-											"top": 80,
+											"left": -72,
+											"top": 48,
 											"width": 10,
 											"height": 10
 										},
@@ -6472,15 +6617,16 @@
 											},
 											"visible": false,
 											"font": "Arial;16;0",
-											"top": 80,
+											"left": -72,
+											"top": 48,
 											"width": 10,
 											"height": 10
 										}
 									],
 									"font": "Arial;16;0",
 									"containerChangeable": true,
-									"left": 88,
-									"top": 272,
+									"left": 16,
+									"top": 240,
 									"width": 280,
 									"height": 105,
 									"nameCompartment": {
@@ -6526,8 +6672,8 @@
 														"$ref": "AAAAAAGIBpIFONK+HIs="
 													},
 													"font": "Arial;16;0",
-													"left": 421,
-													"top": 277,
+													"left": 325,
+													"top": 245,
 													"width": 270,
 													"height": 16,
 													"text": "«control»"
@@ -6539,8 +6685,8 @@
 														"$ref": "AAAAAAGIBpIFONK+HIs="
 													},
 													"font": "Arial;16;1",
-													"left": 421,
-													"top": 295,
+													"left": 325,
+													"top": 263,
 													"width": 270,
 													"height": 16,
 													"text": "Control::Apply"
@@ -6553,7 +6699,8 @@
 													},
 													"visible": false,
 													"font": "Arial;16;0",
-													"top": 192,
+													"left": -192,
+													"top": 128,
 													"width": 104.734375,
 													"height": 16,
 													"text": "(from Model1)"
@@ -6566,14 +6713,15 @@
 													},
 													"visible": false,
 													"font": "Arial;16;0",
-													"top": 192,
+													"left": -192,
+													"top": 128,
 													"height": 16,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;16;0",
-											"left": 416,
-											"top": 272,
+											"left": 320,
+											"top": 240,
 											"width": 280,
 											"height": 44,
 											"stereotypeLabel": {
@@ -6599,8 +6747,8 @@
 												"$ref": "AAAAAAGIBpIFONK7B6M="
 											},
 											"font": "Arial;16;0",
-											"left": 416,
-											"top": 316,
+											"left": 320,
+											"top": 284,
 											"width": 280,
 											"height": 10
 										},
@@ -6624,8 +6772,8 @@
 														"$ref": "AAAAAAGIBpKBftLp5aE="
 													},
 													"font": "Arial;16;0",
-													"left": 421,
-													"top": 331,
+													"left": 325,
+													"top": 299,
 													"width": 270,
 													"height": 16,
 													"text": "+addNewApply()",
@@ -6633,8 +6781,8 @@
 												}
 											],
 											"font": "Arial;16;0",
-											"left": 416,
-											"top": 326,
+											"left": 320,
+											"top": 294,
 											"width": 280,
 											"height": 26
 										},
@@ -6649,7 +6797,8 @@
 											},
 											"visible": false,
 											"font": "Arial;16;0",
-											"top": 96,
+											"left": -96,
+											"top": 64,
 											"width": 10,
 											"height": 10
 										},
@@ -6664,15 +6813,16 @@
 											},
 											"visible": false,
 											"font": "Arial;16;0",
-											"top": 96,
+											"left": -96,
+											"top": 64,
 											"width": 10,
 											"height": 10
 										}
 									],
 									"font": "Arial;16;0",
 									"containerChangeable": true,
-									"left": 416,
-									"top": 272,
+									"left": 320,
+									"top": 240,
 									"width": 280,
 									"height": 81,
 									"nameCompartment": {
@@ -6718,8 +6868,8 @@
 														"$ref": "AAAAAAGIBpXFQdNBViA="
 													},
 													"font": "Arial;16;0",
-													"left": 461,
-													"top": 485,
+													"left": 1005,
+													"top": 53,
 													"width": 270,
 													"height": 16,
 													"text": "«entity»"
@@ -6731,8 +6881,8 @@
 														"$ref": "AAAAAAGIBpXFQdNBViA="
 													},
 													"font": "Arial;16;1",
-													"left": 461,
-													"top": 503,
+													"left": 1005,
+													"top": 71,
 													"width": 270,
 													"height": 16,
 													"text": "ApplyInfo"
@@ -6745,8 +6895,8 @@
 													},
 													"visible": false,
 													"font": "Arial;16;0",
-													"left": -576,
-													"top": 512,
+													"left": 512,
+													"top": -352,
 													"width": 104.734375,
 													"height": 16,
 													"text": "(from Model1)"
@@ -6759,15 +6909,15 @@
 													},
 													"visible": false,
 													"font": "Arial;16;0",
-													"left": -576,
-													"top": 512,
+													"left": 512,
+													"top": -352,
 													"height": 16,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;16;0",
-											"left": 456,
-											"top": 480,
+											"left": 1000,
+											"top": 48,
 											"width": 280,
 											"height": 44,
 											"stereotypeLabel": {
@@ -6803,11 +6953,11 @@
 														"$ref": "AAAAAAGIBpZPDtNrBho="
 													},
 													"font": "Arial;16;0",
-													"left": 461,
-													"top": 529,
+													"left": 1005,
+													"top": 97,
 													"width": 270,
 													"height": 16,
-													"text": "-회사 이름",
+													"text": "-companyName",
 													"horizontalAlignment": 0
 												},
 												{
@@ -6820,11 +6970,11 @@
 														"$ref": "AAAAAAGIBpZ1+dNyWiE="
 													},
 													"font": "Arial;16;0",
-													"left": 461,
-													"top": 547,
+													"left": 1005,
+													"top": 115,
 													"width": 270,
 													"height": 16,
-													"text": "-업무",
+													"text": "-task",
 													"horizontalAlignment": 0
 												},
 												{
@@ -6837,11 +6987,11 @@
 														"$ref": "AAAAAAGIBpaEX9N5wqE="
 													},
 													"font": "Arial;16;0",
-													"left": 461,
-													"top": 565,
+													"left": 1005,
+													"top": 133,
 													"width": 270,
 													"height": 16,
-													"text": "-인원수",
+													"text": "-numOfPeople",
 													"horizontalAlignment": 0
 												},
 												{
@@ -6854,19 +7004,36 @@
 														"$ref": "AAAAAAGIBpaR9dOAusg="
 													},
 													"font": "Arial;16;0",
-													"left": 461,
-													"top": 583,
+													"left": 1005,
+													"top": 151,
 													"width": 270,
 													"height": 16,
-													"text": "-신청 마감일",
+													"text": "-deadline",
+													"horizontalAlignment": 0
+												},
+												{
+													"_type": "UMLAttributeView",
+													"_id": "AAAAAAGIC2hhZGpkk28=",
+													"_parent": {
+														"$ref": "AAAAAAGIBpXFQdNGtbs="
+													},
+													"model": {
+														"$ref": "AAAAAAGIC2hhWmphglc="
+													},
+													"font": "Arial;16;0",
+													"left": 1005,
+													"top": 169,
+													"width": 270,
+													"height": 16,
+													"text": "-currentTime",
 													"horizontalAlignment": 0
 												}
 											],
 											"font": "Arial;16;0",
-											"left": 456,
-											"top": 524,
+											"left": 1000,
+											"top": 92,
 											"width": 280,
-											"height": 80
+											"height": 98
 										},
 										{
 											"_type": "UMLOperationCompartmentView",
@@ -6888,19 +7055,36 @@
 														"$ref": "AAAAAAGIBpcWwdOM+dQ="
 													},
 													"font": "Arial;16;0",
-													"left": 461,
-													"top": 609,
+													"left": 1005,
+													"top": 195,
 													"width": 270,
 													"height": 16,
 													"text": "+ApplyInfo()",
 													"horizontalAlignment": 0
+												},
+												{
+													"_type": "UMLOperationView",
+													"_id": "AAAAAAGIC2jFp2rPAQM=",
+													"_parent": {
+														"$ref": "AAAAAAGIBpXFQdNHEHU="
+													},
+													"model": {
+														"$ref": "AAAAAAGIC2jFoGrMFHc="
+													},
+													"font": "Arial;16;0",
+													"left": 1005,
+													"top": 213,
+													"width": 270,
+													"height": 16,
+													"text": "+getApplyInfo()",
+													"horizontalAlignment": 0
 												}
 											],
 											"font": "Arial;16;0",
-											"left": 456,
-											"top": 604,
+											"left": 1000,
+											"top": 190,
 											"width": 280,
-											"height": 26
+											"height": 44
 										},
 										{
 											"_type": "UMLReceptionCompartmentView",
@@ -6913,8 +7097,8 @@
 											},
 											"visible": false,
 											"font": "Arial;16;0",
-											"left": 344,
-											"top": -152,
+											"left": 888,
+											"top": -584,
 											"width": 10,
 											"height": 10
 										},
@@ -6929,18 +7113,18 @@
 											},
 											"visible": false,
 											"font": "Arial;16;0",
-											"left": 344,
-											"top": -152,
+											"left": 888,
+											"top": -584,
 											"width": 10,
 											"height": 10
 										}
 									],
 									"font": "Arial;16;0",
 									"containerChangeable": true,
-									"left": 456,
-									"top": 480,
+									"left": 1000,
+									"top": 48,
 									"width": 280,
-									"height": 153,
+									"height": 186,
 									"nameCompartment": {
 										"$ref": "AAAAAAGIBpXFQdNBViA="
 									},
@@ -6977,8 +7161,8 @@
 												"$ref": "AAAAAAGIBqxz9vOt+xA="
 											},
 											"font": "Arial;13;0",
-											"left": 386,
-											"top": 563,
+											"left": 930,
+											"top": 131,
 											"width": 41.08837890625,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -7000,8 +7184,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 406,
-											"top": 578,
+											"left": 950,
+											"top": 146,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -7021,8 +7205,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 407,
-											"top": 533,
+											"left": 951,
+											"top": 101,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -7042,8 +7226,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 422,
-											"top": 562,
+											"left": 966,
+											"top": 130,
 											"width": 16.26904296875,
 											"height": 13,
 											"alpha": 0.5235987755982988,
@@ -7065,8 +7249,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 427,
-											"top": 576,
+											"left": 971,
+											"top": 144,
 											"height": 13,
 											"alpha": 0.7853981633974483,
 											"distance": 40,
@@ -7085,8 +7269,8 @@
 												"$ref": "AAAAAAGIBqxz9vOuGEw="
 											},
 											"font": "Arial;15;0",
-											"left": 422,
-											"top": 534,
+											"left": 966,
+											"top": 102,
 											"width": 25.01953125,
 											"height": 15,
 											"alpha": -0.5235987755982988,
@@ -7108,8 +7292,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 384,
-											"top": 562,
+											"left": 928,
+											"top": 130,
 											"height": 13,
 											"alpha": -0.5235987755982988,
 											"distance": 30,
@@ -7128,8 +7312,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 387,
-											"top": 576,
+											"left": 931,
+											"top": 144,
 											"height": 13,
 											"alpha": -0.7853981633974483,
 											"distance": 40,
@@ -7147,8 +7331,8 @@
 												"$ref": "AAAAAAGIBqxz9vOvS3Y="
 											},
 											"font": "Arial;15;0",
-											"left": 369,
-											"top": 534,
+											"left": 913,
+											"top": 102,
 											"width": 22.5146484375,
 											"height": 15,
 											"alpha": 0.5235987755982988,
@@ -7169,8 +7353,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 632,
-											"top": -408,
+											"left": 1176,
+											"top": -840,
 											"width": 10,
 											"height": 10
 										},
@@ -7185,8 +7369,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 632,
-											"top": -408,
+											"left": 1176,
+											"top": -840,
 											"width": 10,
 											"height": 10
 										}
@@ -7198,7 +7382,7 @@
 									"tail": {
 										"$ref": "AAAAAAGIBpXFQdNAdgA="
 									},
-									"points": "456:554;359:554",
+									"points": "1000:122;903:122",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAGIBqxz9/OyROM="
@@ -7347,7 +7531,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGIBoyMK9IpBkA="
 									},
-									"name": "업무",
+									"name": "status",
 									"visibility": "private",
 									"type": ""
 								},
@@ -7357,7 +7541,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGIBoyMK9IpBkA="
 									},
-									"name": "인원수",
+									"name": "numberOfApplicants",
 									"visibility": "private",
 									"type": ""
 								},
@@ -7367,12 +7551,82 @@
 									"_parent": {
 										"$ref": "AAAAAAGIBoyMK9IpBkA="
 									},
-									"name": "신청 마감일",
+									"name": "numberOfRecruit",
+									"visibility": "private",
+									"type": ""
+								},
+								{
+									"_type": "UMLAttribute",
+									"_id": "AAAAAAGIC19WlWYv2U0=",
+									"_parent": {
+										"$ref": "AAAAAAGIBoyMK9IpBkA="
+									},
+									"name": "work",
+									"visibility": "private",
+									"type": ""
+								},
+								{
+									"_type": "UMLAttribute",
+									"_id": "AAAAAAGIC19lP2Zdw/E=",
+									"_parent": {
+										"$ref": "AAAAAAGIBoyMK9IpBkA="
+									},
+									"name": "deadline",
+									"visibility": "private",
+									"type": ""
+								},
+								{
+									"_type": "UMLAttribute",
+									"_id": "AAAAAAGIC1+FA2aRt68=",
+									"_parent": {
+										"$ref": "AAAAAAGIBoyMK9IpBkA="
+									},
+									"name": "currentTime",
 									"visibility": "private",
 									"type": ""
 								}
 							],
 							"operations": [
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIC2KP5GexXMA=",
+									"_parent": {
+										"$ref": "AAAAAAGIBoyMK9IpBkA="
+									},
+									"name": "getRecruitListInfo"
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIC2Ok5GhP0hI=",
+									"_parent": {
+										"$ref": "AAAAAAGIBoyMK9IpBkA="
+									},
+									"name": "endRecruit"
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIC2QUgGiOwWE=",
+									"_parent": {
+										"$ref": "AAAAAAGIBoyMK9IpBkA="
+									},
+									"name": "modifyRecruit"
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIC2RZz2kSmvk=",
+									"_parent": {
+										"$ref": "AAAAAAGIBoyMK9IpBkA="
+									},
+									"name": "getEndRecruit"
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIC2TKhGk9K40=",
+									"_parent": {
+										"$ref": "AAAAAAGIBoyMK9IpBkA="
+									},
+									"name": "getNumOfApplicants"
+								},
 								{
 									"_type": "UMLOperation",
 									"_id": "AAAAAAGIBo2yR9JuSUQ=",
@@ -7452,7 +7706,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGIBpXFQdM+1po="
 									},
-									"name": "회사 이름",
+									"name": "companyName",
 									"visibility": "private",
 									"type": ""
 								},
@@ -7462,7 +7716,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGIBpXFQdM+1po="
 									},
-									"name": "업무",
+									"name": "task",
 									"visibility": "private",
 									"type": ""
 								},
@@ -7472,7 +7726,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGIBpXFQdM+1po="
 									},
-									"name": "인원수",
+									"name": "numOfPeople",
 									"visibility": "private",
 									"type": ""
 								},
@@ -7482,7 +7736,17 @@
 									"_parent": {
 										"$ref": "AAAAAAGIBpXFQdM+1po="
 									},
-									"name": "신청 마감일",
+									"name": "deadline",
+									"visibility": "private",
+									"type": ""
+								},
+								{
+									"_type": "UMLAttribute",
+									"_id": "AAAAAAGIC2hhWmphglc=",
+									"_parent": {
+										"$ref": "AAAAAAGIBpXFQdM+1po="
+									},
+									"name": "currentTime",
 									"visibility": "private",
 									"type": ""
 								}
@@ -7495,6 +7759,14 @@
 										"$ref": "AAAAAAGIBpXFQdM+1po="
 									},
 									"name": "ApplyInfo"
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGIC2jFoGrMFHc=",
+									"_parent": {
+										"$ref": "AAAAAAGIBpXFQdM+1po="
+									},
+									"name": "getApplyInfo"
 								}
 							]
 						}
