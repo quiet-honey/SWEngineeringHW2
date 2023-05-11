@@ -5915,7 +5915,7 @@
 														"$ref": "AAAAAAGIBm5DeygB5Zc="
 													},
 													"font": "Arial;13;0",
-													"left": 54.55908203125,
+													"left": 56.72998046875,
 													"top": 13,
 													"width": 79,
 													"height": 13,
@@ -5930,7 +5930,7 @@
 													"font": "Arial;13;1",
 													"left": 37,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -6194,7 +6194,7 @@
 															"top": 87,
 															"width": 142,
 															"height": 13,
-															"text": ":GetRecuitNumUI"
+															"text": ":GetRecruitNumUI"
 														},
 														{
 															"_type": "LabelView",
@@ -10893,7 +10893,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGIBm5Deyf/D2w="
 									},
-									"name": ":GetRecuitNumUI",
+									"name": ":GetRecruitNumUI",
 									"represent": {
 										"$ref": "AAAAAAGIBm8zTyi6l7U="
 									},
@@ -17933,7 +17933,7 @@
 														"$ref": "AAAAAAGICeemtzQEQnY="
 													},
 													"font": "Arial;13;0",
-													"left": 40.72998046875,
+													"left": 38.55908203125,
 													"top": 29,
 													"width": 79,
 													"height": 13,
@@ -17948,7 +17948,7 @@
 													"font": "Arial;13;1",
 													"left": 21,
 													"top": 29,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
