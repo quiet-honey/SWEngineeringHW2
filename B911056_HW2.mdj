@@ -1268,9 +1268,9 @@
 																		"$ref": "AAAAAAGIBkHgcGitF50="
 																	},
 																	"font": "Arial;13;0",
-																	"left": 120.45703125,
+																	"left": 120.72998046875,
 																	"top": 173,
-																	"width": 88.140625,
+																	"width": 86.2236328125,
 																	"height": 13,
 																	"text": "채용 정보 조회"
 																},
@@ -1283,7 +1283,7 @@
 																	"font": "Arial;13;1",
 																	"left": 101,
 																	"top": 173,
-																	"width": 14.45703125,
+																	"width": 14.72998046875,
 																	"height": 13,
 																	"text": "sd"
 																}
@@ -1444,7 +1444,7 @@
 																			"top": 423,
 																			"width": 174,
 																			"height": 16,
-																			"text": ":GeRecruitmenttUI"
+																			"text": ":GetRecruitmentUI"
 																		},
 																		{
 																			"_type": "LabelView",
@@ -3141,7 +3141,7 @@
 													"_parent": {
 														"$ref": "AAAAAAGIBkHgcGirYIg="
 													},
-													"name": ":GeRecruitmenttUI",
+													"name": ":GetRecruitmentUI",
 													"represent": {
 														"$ref": "AAAAAAGIBlrMe2mwjA8="
 													},
@@ -3353,9 +3353,9 @@
 																		"$ref": "AAAAAAGIBkH5uGjaVg0="
 																	},
 																	"font": "Arial;13;0",
-																	"left": 128.45703125,
+																	"left": 128.72998046875,
 																	"top": 141,
-																	"width": 57.5703125,
+																	"width": 56.61181640625,
 																	"height": 13,
 																	"text": "채용 지원"
 																},
@@ -3368,7 +3368,7 @@
 																	"font": "Arial;13;1",
 																	"left": 109,
 																	"top": 141,
-																	"width": 14.45703125,
+																	"width": 14.72998046875,
 																	"height": 13,
 																	"text": "sd"
 																}
