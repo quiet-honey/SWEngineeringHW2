@@ -2704,7 +2704,7 @@
 											"top": 261,
 											"width": 239,
 											"height": 13,
-											"text": "+getRecruitInfo()",
+											"text": "+getRecruitListInfo()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2757,13 +2757,64 @@
 											"height": 13,
 											"text": "+getEndRecruit()",
 											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIC122uMfSmz8=",
+											"_parent": {
+												"$ref": "AAAAAAGIBiboiOpfEuw="
+											},
+											"model": {
+												"$ref": "AAAAAAGIC122r8fPT9U="
+											},
+											"font": "Arial;13;0",
+											"left": 941,
+											"top": 321,
+											"width": 239,
+											"height": 13,
+											"text": "+getNumOfApplicants()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIC125HsfYylg=",
+											"_parent": {
+												"$ref": "AAAAAAGIBiboiOpfEuw="
+											},
+											"model": {
+												"$ref": "AAAAAAGIC125GMfVd6o="
+											},
+											"font": "Arial;13;0",
+											"left": 941,
+											"top": 336,
+											"width": 239,
+											"height": 13,
+											"text": "+getRecruitment()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIC12+XMfeUiw=",
+											"_parent": {
+												"$ref": "AAAAAAGIBiboiOpfEuw="
+											},
+											"model": {
+												"$ref": "AAAAAAGIC12+V8fbsMQ="
+											},
+											"font": "Arial;13;0",
+											"left": 941,
+											"top": 351,
+											"width": 239,
+											"height": 13,
+											"text": "+getRecruitmentDetail()",
+											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 936,
 									"top": 256,
 									"width": 249,
-									"height": 68
+									"height": 113
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -2799,7 +2850,7 @@
 							"left": 936,
 							"top": 120,
 							"width": 249,
-							"height": 204,
+							"height": 249,
 							"nameCompartment": {
 								"$ref": "AAAAAAGIBiboiOpZfsc="
 							},
@@ -3171,7 +3222,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBiboiOpWEZw="
 							},
-							"name": "getRecruitInfo"
+							"name": "getRecruitListInfo"
 						},
 						{
 							"_type": "UMLOperation",
@@ -3196,6 +3247,30 @@
 								"$ref": "AAAAAAGIBiboiOpWEZw="
 							},
 							"name": "getEndRecruit"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGIC122r8fPT9U=",
+							"_parent": {
+								"$ref": "AAAAAAGIBiboiOpWEZw="
+							},
+							"name": "getNumOfApplicants"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGIC125GMfVd6o=",
+							"_parent": {
+								"$ref": "AAAAAAGIBiboiOpWEZw="
+							},
+							"name": "getRecruitment"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGIC12+V8fbsMQ=",
+							"_parent": {
+								"$ref": "AAAAAAGIBiboiOpWEZw="
+							},
+							"name": "getRecruitmentDetail"
 						}
 					]
 				}
