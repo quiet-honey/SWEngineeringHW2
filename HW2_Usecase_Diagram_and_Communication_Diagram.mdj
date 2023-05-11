@@ -8331,9 +8331,9 @@
 																"$ref": "AAAAAAGIBfSXkyKTj8s="
 															},
 															"font": "Arial;13;0",
-															"left": 112.72998046875,
+															"left": 112.45703125,
 															"top": 421,
-															"width": 79.98363281249999,
+															"width": 88.140625,
 															"height": 13,
 															"text": "채용 정보 등록"
 														},
@@ -8346,7 +8346,7 @@
 															"font": "Arial;13;1",
 															"left": 93,
 															"top": 421,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -10392,9 +10392,9 @@
 																"$ref": "AAAAAAGIBenMGwTNjCU="
 															},
 															"font": "Arial;13;0",
-															"left": 72.72998046875,
+															"left": 72.45703125,
 															"top": 461,
-															"width": 119.47544921874999,
+															"width": 131.7109375,
 															"height": 13,
 															"text": "채용 정보 리스트 조회"
 														},
@@ -10407,7 +10407,7 @@
 															"font": "Arial;13;1",
 															"left": 53,
 															"top": 461,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -12470,9 +12470,9 @@
 																"$ref": "AAAAAAGIBgByJ1TpPU8="
 															},
 															"font": "Arial;13;0",
-															"left": 112.72998046875,
+															"left": 112.45703125,
 															"top": 421,
-															"width": 79.98363281249999,
+															"width": 88.140625,
 															"height": 13,
 															"text": "채용 정보 수정"
 														},
@@ -12485,7 +12485,7 @@
 															"font": "Arial;13;1",
 															"left": 93,
 															"top": 421,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -14546,7 +14546,7 @@
 															"font": "Arial;13;0",
 															"left": 112.72998046875,
 															"top": 421,
-															"width": 79.98363281249999,
+															"width": 86.2236328125,
 															"height": 13,
 															"text": "채용 정보 삭제"
 														},
@@ -16192,7 +16192,7 @@
 															"height": 13,
 															"alpha": 1.5273449974411097,
 															"distance": 23.021728866442675,
-															"text": "2.1.1 : ~recruitment()"
+															"text": "2.1.1 : ~Recruitment()"
 														},
 														{
 															"_type": "NodeLabelView",
@@ -16322,7 +16322,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGIBgpJ1WUXpHA="
 											},
-											"name": "~recruitment()",
+											"name": "~Recruitment()",
 											"source": {
 												"$ref": "AAAAAAGIBgpJ1mVzkSQ="
 											},
@@ -16592,9 +16592,9 @@
 																"$ref": "AAAAAAGIBfk8xkGNHp4="
 															},
 															"font": "Arial;13;0",
-															"left": 112.72998046875,
+															"left": 112.45703125,
 															"top": 421,
-															"width": 107.51544921875,
+															"width": 118.7109375,
 															"height": 13,
 															"text": "채용 조기 마감 처리"
 														},
@@ -16607,7 +16607,7 @@
 															"font": "Arial;13;1",
 															"left": 93,
 															"top": 421,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -18641,9 +18641,9 @@
 																"$ref": "AAAAAAGIBf1yqEvHKqI="
 															},
 															"font": "Arial;13;0",
-															"left": 112.72998046875,
+															"left": 112.45703125,
 															"top": 421,
-															"width": 91.9436328125,
+															"width": 101.140625,
 															"height": 13,
 															"text": "마감된 채용 조회"
 														},
@@ -18656,7 +18656,7 @@
 															"font": "Arial;13;1",
 															"left": 93,
 															"top": 421,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -22201,9 +22201,9 @@
 																"$ref": "AAAAAAGIC3//m+aowPc="
 															},
 															"font": "Arial;13;0",
-															"left": 144.72998046875,
+															"left": 144.45703125,
 															"top": 69,
-															"width": 52.45181640625,
+															"width": 57.5703125,
 															"height": 13,
 															"text": "회원 가입"
 														},
@@ -22216,7 +22216,7 @@
 															"font": "Arial;13;1",
 															"left": 125,
 															"top": 69,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -23067,7 +23067,7 @@
 															"font": "Arial;13;0",
 															"left": 64.72998046875,
 															"top": 77,
-															"width": 52.45181640625,
+															"width": 56.61181640625,
 															"height": 13,
 															"text": "회원 탈퇴"
 														},
@@ -23975,13 +23975,13 @@
 																"$ref": "AAAAAAGIC4Z52/scWlw="
 															},
 															"font": "Arial;13;0",
-															"left": 486.58642578125,
+															"left": 476.661865234375,
 															"top": 211,
-															"width": 83.8271484375,
+															"width": 103.67626953125,
 															"height": 13,
 															"alpha": 1.5707963267948966,
 															"distance": 10,
-															"text": "2.1.1 : delete()"
+															"text": "2.1.1 : ~Member()"
 														},
 														{
 															"_type": "NodeLabelView",
@@ -24816,7 +24816,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGIC4Z52/rFlqg="
 											},
-											"name": "delete()",
+											"name": "~Member()",
 											"source": {
 												"$ref": "AAAAAAGIC4Z52/sgsDI="
 											},
@@ -25160,9 +25160,9 @@
 																"$ref": "AAAAAAGIC4kAbBJzu4o="
 															},
 															"font": "Arial;13;0",
-															"left": 104.72998046875,
+															"left": 104.45703125,
 															"top": 85,
-															"width": 36.879999999999995,
+															"width": 40,
 															"height": 13,
 															"text": "로그인"
 														},
@@ -25175,7 +25175,7 @@
 															"font": "Arial;13;1",
 															"left": 85,
 															"top": 85,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -29782,7 +29782,7 @@
 															"font": "Arial;13;0",
 															"left": 40.72998046875,
 															"top": 133,
-															"width": 48.84,
+															"width": 53,
 															"height": 13,
 															"text": "로그아웃"
 														},
@@ -30648,9 +30648,9 @@
 																"$ref": "AAAAAAGIC7TRohvBkuY="
 															},
 															"font": "Arial;13;0",
-															"left": 120.72998046875,
+															"left": 120.45703125,
 															"top": 173,
-															"width": 79.98363281249999,
+															"width": 88.140625,
 															"height": 13,
 															"text": "채용 정보 조회"
 														},
@@ -30663,7 +30663,7 @@
 															"font": "Arial;13;1",
 															"left": 101,
 															"top": 173,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -33040,9 +33040,9 @@
 																"$ref": "AAAAAAGIC7xHhtKfJQQ="
 															},
 															"font": "Arial;13;0",
-															"left": 128.72998046875,
+															"left": 128.45703125,
 															"top": 141,
-															"width": 52.45181640625,
+															"width": 57.5703125,
 															"height": 13,
 															"text": "채용 지원"
 														},
@@ -33055,7 +33055,7 @@
 															"font": "Arial;13;1",
 															"left": 109,
 															"top": 141,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -35360,9 +35360,9 @@
 																"$ref": "AAAAAAGIC630UIDcv4I="
 															},
 															"font": "Arial;13;0",
-															"left": 56.72998046875,
+															"left": 56.45703125,
 															"top": 141,
-															"width": 76.37181640624999,
+															"width": 83.5703125,
 															"height": 13,
 															"text": "지원정보 조회"
 														},
@@ -35375,7 +35375,7 @@
 															"font": "Arial;13;1",
 															"left": 37,
 															"top": 141,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -38252,9 +38252,9 @@
 																"$ref": "AAAAAAGIC6u70GWktrU="
 															},
 															"font": "Arial;13;0",
-															"left": 40.72998046875,
+															"left": 40.45703125,
 															"top": 29,
-															"width": 72.75999999999999,
+															"width": 79,
 															"height": 13,
 															"text": "지원정보삭제"
 														},
@@ -38267,7 +38267,7 @@
 															"font": "Arial;13;1",
 															"left": 21,
 															"top": 29,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -40924,7 +40924,7 @@
 															"font": "Arial;13;0",
 															"left": 32.72998046875,
 															"top": 13,
-															"width": 79.98363281249999,
+															"width": 86.2236328125,
 															"height": 13,
 															"text": "채용 지원 취소"
 														},
@@ -43570,9 +43570,9 @@
 																"$ref": "AAAAAAGIC7CXO6eJQeM="
 															},
 															"font": "Arial;13;0",
-															"left": 56.72998046875,
+															"left": 56.45703125,
 															"top": 13,
-															"width": 72.75999999999999,
+															"width": 79,
 															"height": 13,
 															"text": "지원정보통계"
 														},
@@ -43585,7 +43585,7 @@
 															"font": "Arial;13;1",
 															"left": 37,
 															"top": 13,
-															"width": 14.72998046875,
+															"width": 14.45703125,
 															"height": 13,
 															"text": "sd"
 														}
